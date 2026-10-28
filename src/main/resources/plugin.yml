@@ -1,0 +1,8 @@
+name: DuelPlugin
+version: 1.0
+main: duels.DuelPlugin
+api-version: '1.21'
+commands:
+  duel:
+    description: Challenge, accept, spectate or leave duels
+    usage: /duel <player|accept|spec <player>|leave>
